@@ -39,3 +39,7 @@ It is designed as an educational yet robust framework to train, evaluate, and vi
 
 ✅ Simple to tune and robust, unlike older algorithms (e.g., vanilla policy gradients which suffer from large variance).
 
+### Training Results
+
+As expected, the reinforcement learning training turned out to be stable, and our agent is able to play LunarLander-v3 from the OpenAI Gymnasium suite successfully. Here are the training results:
+![Training Results](ppo_training_results.png)
