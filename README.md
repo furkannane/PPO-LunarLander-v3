@@ -43,3 +43,12 @@ It is designed as an educational yet robust framework to train, evaluate, and vi
 
 As expected, the reinforcement learning training turned out to be stable, and our agent is able to play LunarLander-v3 from the OpenAI Gymnasium suite successfully. Here are the training results:
 ![Training Results](ppo_training_results.png)
+
+### Demonstrations
+
+Here are 2 demonstrations of our trained agent playing LunarLander-v3 from the OpenAI Gymnasium suite.
+
+#### Demo 1
+![Demo Animation](videos/rl-video-episode-0.gif)
+#### Demo 2
+![Demo Animation](videos/rl-video-episode-8.gif)
